@@ -1,0 +1,34 @@
+# main links links
+main:
+  #- title: ""
+  #  url: /about/
+    
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Research"
+    url: /research/
+    
+  - title: "CV"
+    url: http://mhqiu.github.io/files/CV_Minghao_Qiu.pdf
+    
+  #- title: "Talks"
+  #  url: /talks/    
+   
+  #- title: "Resources"
+  #  url: /resources/    
+
+ # - title: "Teaching"
+ #  url: /teaching/    
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
+        
+ # - title: "Blog Posts"
+ #  url: /year-archive/
+    
+ # - title: "CV"
+ #   url: /cv/
+    
+ # - title: "Guide"
+ #   url: /markdown/
