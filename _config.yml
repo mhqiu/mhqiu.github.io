@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Minghao Qiu (邱明昊)"
 title_separator          : "-"
 name                     : &name "Minghao Qiu"
-description              : &description "PhD candidate at Massachusetts Insitutte of Technology"
+description              : &description "Postdoctoral scholar at Stanford Univeristy"
 url                      : https://mhqiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhqiu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Minghao Qiu"
   avatar           : "Minghao_photo.jpeg"
-  bio              : "PhD candidate at MIT; researches air quality, energy and climate"
+  bio              : "Postdoc scholar at Stanford; researches air quality, energy transition, and climate"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vKRtjbQAAAAJ&hl=en"
-  email            :
+  email            :  "mhqiu@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
