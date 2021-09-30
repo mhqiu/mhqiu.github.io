@@ -13,4 +13,5 @@ I received my PhD degree from MIT's [Institute for Data, Systems, and Society](h
 
 My research interest is in environmental and energy policies with a global focus on issues involving air pollution, climate change and energy systems. My research uses causal inference, machine learning, and atmospheric chemistry modeling to study the sustainability challenges at the intersection of energy, pollution and climate using real-world data. My PhD research has spanned the electricity, industrial, and transportation sectors in China, US, and EU. From a methodology perspective, I am interested in developing data-driven approaches with insights from complex atmospheric chemistry models (such as [GEOS-Chem](http://acmg.seas.harvard.edu/geos/)) and understanding the uncertainty and limitations of econometric and statistical models in such application. 
 
-%To download my current CV, please click [here](https://mhqiu.github.io/files/CV_Minghao_Qiu.pdf)
+
+
