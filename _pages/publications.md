@@ -19,24 +19,25 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 
-**Under review**
+**<ins>Under review, submitted, in preparation</ins>**
 
-**Qiu, M.**, Zigler, C., Selin, N.(2021). Impacts of wind power on air quality, premature mortality and environmental justice in the US. 
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. *under review, **Atmospheric Chemistry and Physics*** \[[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510839.2)\]
 
+**Minghao Qiu**, Marshall Burke. Impacts of drought on energy systems and air quality in the Western US. *(in preparation)*  
+     
+** **
 
-**Work in progress (copy available upon request)**
+**<ins>Peer-reviewed</ins>**
 
-**Qiu, M.**, Zigler, C., Selin, N. (2021). Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. 
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and environmental justice in the US. *accepted with minor revision, **Science Advances***, 2022  
 
-**Qiu, M.**, Borken-Kleefeld, J. (2021). Using snapshot measurements to identify high-emitting vehicles. 
+**Minghao Qiu**, Jens Borken-Kleefeld. Using snapshot measurements to identify high-emitting vehicles. ***Environmental Research Letters***, 2022 \[[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac5c9e/data)\]
 
-**Peer-reviewed**
+**Minghao Qiu**, Yangqin Weng, Jing Cao, Noelle Selin, Valerie Karplus. Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches. ***Environmental Science & Technology***, 2020 \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01381)\] \[[code](https://github.com/mhqiu/Qiu_etal_EST_2020)\]
 
-**Qiu, M.**, Weng, Y., Cao, J., Selin, N., Karplus,V. (2020). Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches. *Environmental Science & Technology*, 54(24), 15584-15593. \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01381)\] \[[code](https://github.com/mhqiu/Qiu_etal_EST_2020)\]
+Haozhe Yang, Wei Tao, Ying Liu, **Minghao Qiu**, Junfeng Liu, Kejun Jiang, Kan Yi, Yao Xiao, Shu Tao. The contribution of the Beijing, Tianjin and Hebei region's iron and steel industry to local air pollution in winter. ***Environmental Pollution***, 2018 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0269749118329038)\]
 
-Yang, H., Tao, W., Liu, Y., **Qiu, M.**, Liu, J., Jiang, K., Yi, K., Xiao, Y., & Tao, S. (2018). The contribution of the Beijing, Tianjin and Hebei region's iron and steel industry to local air pollution in winter. *Environmental Pollution*  \[[pdf](https://www.sciencedirect.com/science/article/pii/S0269749118329038)\]
-
-Wei, K., **Qiu, M.**, Zhang, R., Zhou, L., Zhang, T., Yao, M., \& Luo, C. (2017). Single Living yEast PM Toxicity Sensor (SLEPTor) System. *Journal of Aerosol Science*, 107, 65-73. \[[pdf](https://www.sciencedirect.com/science/article/pii/S0021850216303366)\]
+Kai Wei, **Minghao Qiu**, Rongfei Zhang, Liantong Zhou, Ting Zhang, Maosheng Yao, and Chunxiong Luo. Single Living yEast PM Toxicity Sensor (SLEPTor) System. ***Journal of Aerosol Science***, 2017 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0021850216303366)\]
 
 <br/>
 
