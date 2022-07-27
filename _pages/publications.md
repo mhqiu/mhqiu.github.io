@@ -21,7 +21,8 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. *under review, **Atmospheric Chemistry and Physics*** \[[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510839.2)\]
+
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and environmental justice in the US. *under re-review after revision, **Science Advances***, 2022  
 
 **Minghao Qiu**, Marshall Burke. Impacts of drought on energy systems and air quality in the Western US. *(in preparation)*  
      
@@ -29,7 +30,7 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins>**
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and environmental justice in the US. *accepted with minor revision, **Science Advances***, 2022  
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. *accepted, **Atmospheric Chemistry and Physics*** \[[preprint](https://acp.copernicus.org/preprints/acp-2022-232/#discussion)\]
 
 **Minghao Qiu**, Jens Borken-Kleefeld. Using snapshot measurements to identify high-emitting vehicles. ***Environmental Research Letters***, 2022 \[[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac5c9e/data)\]
 
