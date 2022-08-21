@@ -30,7 +30,7 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins>**
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. *accepted, **Atmospheric Chemistry and Physics***, 2022 \[[preprint](https://acp.copernicus.org/preprints/acp-2022-232/#discussion)\]
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. ***Atmospheric Chemistry and Physics***, 2022 \[[pdf](https://acp.copernicus.org/articles/22/10551/2022/acp-22-10551-2022.html)\]
 
 **Minghao Qiu**, Jens Borken-Kleefeld. Using snapshot measurements to identify high-emitting vehicles. ***Environmental Research Letters***, 2022 \[[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac5c9e/data)\]
 
