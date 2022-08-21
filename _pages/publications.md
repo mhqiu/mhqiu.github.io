@@ -29,7 +29,7 @@ author_profile: true
 ** **
 
 **<ins>Peer-reviewed</ins>**
-Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney \& Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM$_{2.5}$ for the contiguous US.  \emph{(accepted)} ***Environmental Science & Technology***
+Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney \& Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. ***accepted, Environmental Science & Technology***
 
 **Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. ***Atmospheric Chemistry and Physics***, 2022 \[[pdf](https://acp.copernicus.org/articles/22/10551/2022/acp-22-10551-2022.html)\] \[[code&data](https://zenodo.org/record/6857259#.YwGn3eyZOdo)\]
 
