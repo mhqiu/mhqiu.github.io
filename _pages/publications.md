@@ -30,11 +30,13 @@ author_profile: true
 
 **<ins>Peer-reviewed</ins>**
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. ***Atmospheric Chemistry and Physics***, 2022 \[[pdf](https://acp.copernicus.org/articles/22/10551/2022/acp-22-10551-2022.html)\]
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. ***Atmospheric Chemistry and Physics***, 2022 \[[pdf](https://acp.copernicus.org/articles/22/10551/2022/acp-22-10551-2022.html)\] \[[code&data](https://zenodo.org/record/6857259#.YwGn3eyZOdo)\]
 
-**Minghao Qiu**, Jens Borken-Kleefeld. Using snapshot measurements to identify high-emitting vehicles. ***Environmental Research Letters***, 2022 \[[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac5c9e/data)\]
 
-**Minghao Qiu**, Yangqin Weng, Jing Cao, Noelle Selin, Valerie Karplus. Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches. ***Environmental Science & Technology***, 2020 \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01381)\] \[[code](https://github.com/mhqiu/Qiu_etal_EST_2020)\]
+**Minghao Qiu**, Jens Borken-Kleefeld. Using snapshot measurements to identify high-emitting vehicles. ***Environmental Research Letters***, 2022 \[[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ac5c9e/data)\] \[[code&data](https://zenodo.org/record/6341957#.YwGn_-yZOdo)\]
+
+
+**Minghao Qiu**, Yangqin Weng, Jing Cao, Noelle Selin, Valerie Karplus. Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches. ***Environmental Science & Technology***, 2020 \[[pdf](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01381)\] \[[code&data](https://github.com/mhqiu/Qiu_etal_EST_2020)\]
 
 Haozhe Yang, Wei Tao, Ying Liu, **Minghao Qiu**, Junfeng Liu, Kejun Jiang, Kan Yi, Yao Xiao, Shu Tao. The contribution of the Beijing, Tianjin and Hebei region's iron and steel industry to local air pollution in winter. ***Environmental Pollution***, 2018 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0269749118329038)\]
 
