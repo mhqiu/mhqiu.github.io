@@ -27,11 +27,11 @@ author_profile: true
 **Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Impacts of drought on electricity system and air quality in the western US. *(in preparation)*  
 
 **Minghao Qiu**, Jessica Li, Jeff Wen, Marissa Childs, Marshall Burke. Impacts of climate change on wildfire smoke exposure over the continental US at the census tract level. *(in preparation)*  
-** **
+
 
 **<ins>Peer-reviewed</ins>**
 
-Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney \& Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. *Environmental Science & Technology*, 2022  \[[pdf](https://pubs.acs.org/doi/10.1021/acs.est.2c02934)\] \[[code&data](https://www.stanfordecholab.com/wildfire_smoke)\]\[[media: NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html)\]
+Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney, Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. *Environmental Science & Technology*, 2022  \[[pdf](https://pubs.acs.org/doi/10.1021/acs.est.2c02934)\] \[[code&data](https://www.stanfordecholab.com/wildfire_smoke)\]\[[media: NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html)\]
 
 **Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. *Atmospheric Chemistry and Physics*, 2022 \[[pdf](https://acp.copernicus.org/articles/22/10551/2022/acp-22-10551-2022.html)\] \[[code&data](https://zenodo.org/record/6857259#.YwGn3eyZOdo)\]
 
