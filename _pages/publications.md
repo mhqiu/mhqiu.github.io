@@ -22,7 +22,7 @@ author_profile: true
 **<ins>Under review, submitted, in preparation</ins>**
 
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and exposure disparities in the US. *revise and resubmit, Science Advances*
+Paul Picciano, Sebastian Eastham, **Minghao Qiu**, Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *(submitted)* 
 
 **Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Impacts of drought on electricity system and air quality in the western US. *(in preparation)*  
 
@@ -30,6 +30,8 @@ author_profile: true
 
 
 **<ins>Peer-reviewed</ins>**
+
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and exposure disparities in the US. *in press, Science Advances*, 2022
 
 Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney, Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. *Environmental Science & Technology*, 2022  \[[pdf](https://pubs.acs.org/doi/10.1021/acs.est.2c02934)\] \[[code&data](https://www.stanfordecholab.com/wildfire_smoke)\]\[[media: NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html)\]
 
