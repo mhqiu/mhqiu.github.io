@@ -31,7 +31,7 @@ Paul Picciano, Sebastian Eastham, **Minghao Qiu**, Mei Yuan, John Reilly, Noelle
 
 **<ins>Peer-reviewed</ins>**
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and exposure disparities in the US. *in press, Science Advances*, 2022
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and exposure disparities in the US. *Science Advances*, 2022 \[[pdf](https://www.science.org/doi/10.1126/sciadv.abn8762)\] \[[code&data](https://zenodo.org/record/6404168#.Y4phMeyZNFM)\]\[[media: MIT News](https://news.mit.edu/2022/wind-health-impact-1202)\]
 
 Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney, Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. *Environmental Science & Technology*, 2022  \[[pdf](https://pubs.acs.org/doi/10.1021/acs.est.2c02934)\] \[[code&data](https://www.stanfordecholab.com/wildfire_smoke)\]\[[media: NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html)\]
 
