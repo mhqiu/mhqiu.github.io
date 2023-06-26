@@ -21,20 +21,22 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
+Maja Schlüter, Christa Brelsford, Paul J Ferraro, Kirill Orach, **Minghao Qiu**, Martin D Smith. Unraveling complex causal processes that affect sustainability requires more integration between empirical and modeling approaches. *(submitted)*
+
 Marshall Burke, Marissa L. Childs, Brandon de la Cuesta, **Minghao Qiu**, Jessica Li, Carlos F. Gould, Sam Heft-Neal, Michael Wara. Wildfire influence on recent US pollution trends. *(submitted)* \[[preprint](https://eartharxiv.org/repository/view/4840/)\]
 
 Haitong Zhe Sun et al. Antagonism between ambient ozone increasing and urbanisation-oriented population migration on Chinese cardiopulmonary mortality. *(submitted)* 
 
 Paul Picciano, Sebastian Eastham, **Minghao Qiu**, Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *(submitted)* \[[preprint](https://eartharxiv.org/repository/view/4591/)\]
 
-**Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Drought impacts on the electricity system, emissions, and air quality in the western US.  *(submitted)* \[[preprint](https://doi.org/10.31223/X5ZM1P)\]
-
 **Minghao Qiu**, Jessica Li, Jeff Wen, Marissa Childs, Marshall Burke. Impacts of climate change on wildfire smoke exposure over the continental US at the census tract level. *(in preparation)*  
 
 
 **<ins>Peer-reviewed</ins>**
 
-**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and exposure disparities in the US. *Science Advances*, 2022 \[[pdf](https://www.science.org/doi/10.1126/sciadv.abn8762)\] \[[code&data](https://zenodo.org/record/6404168#.Y4phMeyZNFM)\]\[[media: MIT News](https://news.mit.edu/2022/wind-health-impact-1202)\] \[[media: US News \& World Report](https://www.usnews.com/news/health-news/articles/2022-12-02/wind-power-is-bringing-americans-real-health-benefits)\] \[[media: HealthDay](https://consumer.healthday.com/air-pollution-2658790383.html?mc_cid=7396a27322&mc_eid=UNIQID)\] \[[media: The Verge](https://www.theverge.com/2022/12/2/23488771/wind-energy-pollution-study-biden-environmental-justice)\] 
+**Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Drought impacts on the electricity system, emissions, and air quality in the western US.  *PNAS*, in press \[[preprint](https://doi.org/10.31223/X5ZM1P)\]
+
+**Minghao Qiu**, Cory Zigler, Noelle Selin. Impacts of wind power on air quality, premature mortality and exposure disparities in the US. *Science Advances*, 2022 \[[pdf](https://www.science.org/doi/10.1126/sciadv.abn8762)\] \[[code&data](https://zenodo.org/record/6404168#.Y4phMeyZNFM)\]\[[media: MIT News](https://news.mit.edu/2022/wind-health-impact-1202)\] \[[media: US News & World Report](https://www.usnews.com/news/health-news/articles/2022-12-02/wind-power-is-bringing-americans-real-health-benefits)\] \[[media: HealthDay](https://consumer.healthday.com/air-pollution-2658790383.html?mc_cid=7396a27322&mc_eid=UNIQID)\] \[[media: The Verge](https://www.theverge.com/2022/12/2/23488771/wind-energy-pollution-study-biden-environmental-justice)\] 
 
 Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney, Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. *Environmental Science & Technology*, 2022  \[[pdf](https://pubs.acs.org/doi/10.1021/acs.est.2c02934)\] \[[code&data](https://www.stanfordecholab.com/wildfire_smoke)\]\[[media: NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html)\] \[[media: Guardian](https://www.theguardian.com/environment/2022/sep/22/air-quality-wildfire-smoke-pollution-health-risks)\]
 
