@@ -21,18 +21,20 @@ author_profile: true
 
 **<ins>Under review, submitted, in preparation</ins>**
 
-Maja Schlüter, Christa Brelsford, Paul J Ferraro, Kirill Orach, **Minghao Qiu**, Martin D Smith. Unraveling complex causal processes that affect sustainability requires more integration between empirical and modeling approaches. *(submitted)*
-
 Marshall Burke, Marissa L. Childs, Brandon de la Cuesta, **Minghao Qiu**, Jessica Li, Carlos F. Gould, Sam Heft-Neal, Michael Wara. Wildfire influence on recent US pollution trends. *(submitted)* \[[preprint](https://eartharxiv.org/repository/view/4840/)\]
 
 Haitong Zhe Sun et al. Antagonism between ambient ozone increasing and urbanisation-oriented population migration on Chinese cardiopulmonary mortality. *(submitted)* 
-
-Paul Picciano, Sebastian Eastham, **Minghao Qiu**, Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *(submitted)* \[[preprint](https://eartharxiv.org/repository/view/4591/)\]
 
 **Minghao Qiu**, Jessica Li, Jeff Wen, Marissa Childs, Marshall Burke. Impacts of climate change on wildfire smoke exposure over the continental US at the census tract level. *(in preparation)*  
 
 
 **<ins>Peer-reviewed</ins>**
+
+^ denotes equal contribution
+
+Paul Picciano^, **Minghao Qiu**^, Sebastian Eastham,Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *accepted, Nature Communications* \[[preprint](https://eartharxiv.org/repository/view/4591/)\]
+
+Maja Schlüter, Christa Brelsford, Paul J Ferraro, Kirill Orach, **Minghao Qiu**, Martin D Smith. Unraveling complex causal processes that affect sustainability requires more integration between empirical and modeling approaches. *accepted, PNAS*
 
 **Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Drought impacts on the electricity system, emissions, and air quality in the western US.  *PNAS*, 2023 
 \[[pdf](https://www.pnas.org/doi/10.1073/pnas.2300395120)\] \[[code&data](https://github.com/mhqiu/drought-electricity-WUS)\] \[[preprint](https://doi.org/10.31223/X5ZM1P)\]
@@ -70,7 +72,6 @@ Haozhe Yang, Wei Tao, Ying Liu, **Minghao Qiu**, Junfeng Liu, Kejun Jiang, Kan Y
 Kai Wei, **Minghao Qiu**, Rongfei Zhang, Liantong Zhou, Ting Zhang, Maosheng Yao, and Chunxiong Luo. Single Living yEast PM Toxicity Sensor (SLEPTor) System. *Journal of Aerosol Science*, 2017 
 \[[pdf](https://www.sciencedirect.com/science/article/pii/S0021850216303366)\]
 
-^ denotes equal contribution
 <br/>
 
 
