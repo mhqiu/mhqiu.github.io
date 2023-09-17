@@ -13,8 +13,7 @@ author_profile: true
 We are looking for 1-2 PhD students to join our group at Stony Brook University, with a start date in Fall 2024. Full tuition and stipend support will be provided. 
 
 
-Candidates should apply through the PhD program in Marine, Atmospheric, and Sustainability Sciences at Stony Brook University (the application deadline is Dec.15). More information can be found here: https://www.stonybrook.edu/commcms/somas/education/graduate/apply
-
+Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply/) at Stony Brook University (the application deadline is Dec.15).
 
 **Interested candidates are welcome to contact Dr. Minghao Qiu via email at minghao.qiu@stonybrook.edu with the subject line "PhD-2024-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
 1.	CV
