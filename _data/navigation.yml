@@ -2,15 +2,17 @@
 main:
   #- title: ""
   #  url: /about/
+  - title: "CV"
+    url: http://mhqiu.github.io/files/CV_Minghao_Qiu.pdf
     
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Research"
     url: /research/
     
-  - title: "CV"
-    url: http://mhqiu.github.io/files/CV_Minghao_Qiu.pdf
+  - title: "Opportunity"
+    url: /opportunity/
     
   #- title: "Talks"
   #  url: /talks/    
