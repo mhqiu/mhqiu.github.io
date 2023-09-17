@@ -7,7 +7,7 @@ author_profile: true
 
 <!--- \* denotes equally contributing authors -->
 
-**Full-funded PhD positions at Stony Brook, Fall 2024**
+**Full-funded PhD positions at Stony Brook University, Fall 2024**
 
 We are looking for 1-2 PhD students to join our group at Stony Brook University, with a start date in Fall 2024. Full tuition and stipend support will be provided. 
 
