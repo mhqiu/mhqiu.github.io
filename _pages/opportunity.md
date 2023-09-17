@@ -9,9 +9,7 @@ author_profile: true
 
 **Full-funded PhD positions at Stony Brook, Fall 2024**
 
-<br/>
 We are looking for 1-2 PhD students to join our group at Stony Brook University, with a start date in Fall 2024. Full tuition and stipend support will be provided. 
-
 
 Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply/) at Stony Brook University (the application deadline is Dec.15).
 
@@ -19,7 +17,6 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 1.	CV
 2.	1-page personal statement: including your research interests, previous research experiences, a brief outline of future research ideas, and your career development plans.
 3.	Contact information for 3 recommenders (names, affiliations, and email addresses).
-
 
 
 **Candidate Requirements**:
