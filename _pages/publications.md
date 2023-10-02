@@ -30,9 +30,9 @@ author_profile: true
 
 ^ denotes equal contribution
 
-Maja Schlüter, Christa Brelsford, Paul J Ferraro, Kirill Orach, **Minghao Qiu**, Martin D Smith. Unraveling complex causal processes that affect sustainability requires more integration between empirical and modeling approaches. *accepted, PNAS*
+Maja Schlüter, Christa Brelsford, Paul J Ferraro, Kirill Orach, **Minghao Qiu**, Martin D Smith. Unraveling complex causal processes that affect sustainability requires more integration between empirical and modeling approaches. *PNAS*, 2023 \[[pdf](https://doi.org/10.1073/pnas.2215676120)\] 
 
-Haitong Zhe Sun et al. Antagonism between ambient ozone increasing and urbanisation-oriented population migration on Chinese cardiopulmonary mortality. *accepted, The Innovation* 
+Haitong Zhe Sun et al. Antagonism between ambient ozone increasing and urbanisation-oriented population migration on Chinese cardiopulmonary mortality. *The Innovation*, 2023 \[[pdf](https://doi.org/10.1016/j.xinn.2023.100517)\]
 
 Marshall Burke, Marissa L. Childs, Brandon de la Cuesta, **Minghao Qiu**, Jessica Li, Carlos F. Gould, Sam Heft-Neal, Michael Wara. Wildfire influence on recent US pollution trends. *Nature*, 2023 \[[pdf](https://www.nature.com/articles/s41586-023-06522-6)\]\[[preprint](https://eartharxiv.org/repository/view/4840/)\]
 
