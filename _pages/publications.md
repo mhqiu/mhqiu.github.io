@@ -37,7 +37,13 @@ author_profile: true
 
 *(10)* Marshall Burke, Marissa L. Childs, Brandon de la Cuesta, **Minghao Qiu**, Jessica Li, Carlos F. Gould, Sam Heft-Neal, Michael Wara. Wildfire influence on recent US pollution trends. *Nature*, 2023 \[[pdf](https://www.nature.com/articles/s41586-023-06522-6)\]\[[preprint](https://eartharxiv.org/repository/view/4840/)\]
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Media:\[[Stanford News](https://news.stanford.edu/2023/09/20/wildfire-smokes-toxic-influence/)\] \[[WSJ](https://www.wsj.com/science/environment/wildfire-smoke-is-erasing-gains-from-decades-of-cleaner-air-e53c6559)\] \[[CBS News](https://www.cbsnews.com/sacramento/news/recent-wildfire-smoke-has-reversed-decades-of-climate-progress-stanford-study-finds/)\] \[[NYT](https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html)\] 
+
 *(9)* Paul Picciano^, **Minghao Qiu**^, Sebastian Eastham,Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *Nature Communications*, 2023 \[[pdf](https://doi.org/10.1038/s41467-023-41131-x)\]\[[preprint](https://eartharxiv.org/repository/view/4591/)\]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Media:\[[MIT News](https://news.mit.edu/2023/improving-us-air-quality-equitably-0927)\]
 
 *(8)* **Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Drought impacts on the electricity system, emissions, and air quality in the western US.  *PNAS*, 2023 
 \[[pdf](https://www.pnas.org/doi/10.1073/pnas.2300395120)\] \[[code&data](https://github.com/mhqiu/drought-electricity-WUS)\] \[[preprint](https://doi.org/10.31223/X5ZM1P)\]
