@@ -38,12 +38,12 @@ author_profile: true
 *(10)* Marshall Burke, Marissa L. Childs, Brandon de la Cuesta, **Minghao Qiu**, Jessica Li, Carlos F. Gould, Sam Heft-Neal, Michael Wara. Wildfire influence on recent US pollution trends. *Nature*, 2023 \[[pdf](https://www.nature.com/articles/s41586-023-06522-6)\]\[[preprint](https://eartharxiv.org/repository/view/4840/)\]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Media:\[[Stanford News](https://news.stanford.edu/2023/09/20/wildfire-smokes-toxic-influence/)\] \[[WSJ](https://www.wsj.com/science/environment/wildfire-smoke-is-erasing-gains-from-decades-of-cleaner-air-e53c6559)\] \[[CBS News](https://www.cbsnews.com/sacramento/news/recent-wildfire-smoke-has-reversed-decades-of-climate-progress-stanford-study-finds/)\] \[[NYT](https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html)\] 
+Media: [Stanford News](https://news.stanford.edu/2023/09/20/wildfire-smokes-toxic-influence/), [WSJ](https://www.wsj.com/science/environment/wildfire-smoke-is-erasing-gains-from-decades-of-cleaner-air-e53c6559), [CBS News](https://www.cbsnews.com/sacramento/news/recent-wildfire-smoke-has-reversed-decades-of-climate-progress-stanford-study-finds/), [NYT](https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html)
 
 *(9)* Paul Picciano^, **Minghao Qiu**^, Sebastian Eastham,Mei Yuan, John Reilly, Noelle E. Selin. Air Quality-Related Equity Implications of U.S. Decarbonization Policy. *Nature Communications*, 2023 \[[pdf](https://doi.org/10.1038/s41467-023-41131-x)\]\[[preprint](https://eartharxiv.org/repository/view/4591/)\]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Media:\[[MIT News](https://news.mit.edu/2023/improving-us-air-quality-equitably-0927)\]
+Media:[MIT News](https://news.mit.edu/2023/improving-us-air-quality-equitably-0927)
 
 *(8)* **Minghao Qiu**, Nathan Ratledge, Ines Azevedo, Noah Diffenbaugh, Marshall Burke. Drought impacts on the electricity system, emissions, and air quality in the western US.  *PNAS*, 2023 
 \[[pdf](https://www.pnas.org/doi/10.1073/pnas.2300395120)\] \[[code&data](https://github.com/mhqiu/drought-electricity-WUS)\] \[[preprint](https://doi.org/10.31223/X5ZM1P)\]
@@ -52,7 +52,7 @@ Media:\[[MIT News](https://news.mit.edu/2023/improving-us-air-quality-equitably-
 [Young Professional Best Paper Award](https://www.usaee.org/aws/USAEE/pt/sp/yp_best_papers), US Assosication for Energy Economics 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Media:\[[Stanford News](https://news.stanford.edu/2023/07/17/western-droughts-drive-emissions-costs/)\] \[[the Hill](https://thehill.com/policy/equilibrium-sustainability/4102381-drought-driven-shift-away-from-hydropower-is-costing-the-us-west-billions-of-dollars-study/)\] \[[AGU Eos](https://eos.org/articles/drought-leads-to-more-fossil-fuel-emissions)\] \[[The Seattle Times](https://www.seattletimes.com/seattle-news/environment/climate-change-is-making-pnw-hydropower-less-reliable/)\] \[[New Scientist](https://www.newscientist.com/article/2357096-us-megadrought-has-led-to-more-air-pollution-from-power-plants/)\] \[[Grist](https://grist.org/energy/western-drought-hydropower-emissions-study/)\] 
+Media: [Stanford News](https://news.stanford.edu/2023/07/17/western-droughts-drive-emissions-costs/), [the Hill](https://thehill.com/policy/equilibrium-sustainability/4102381-drought-driven-shift-away-from-hydropower-is-costing-the-us-west-billions-of-dollars-study/), [AGU Eos](https://eos.org/articles/drought-leads-to-more-fossil-fuel-emissions), [The Seattle Times](https://www.seattletimes.com/seattle-news/environment/climate-change-is-making-pnw-hydropower-less-reliable/), [New Scientist](https://www.newscientist.com/article/2357096-us-megadrought-has-led-to-more-air-pollution-from-power-plants/), [Grist](https://grist.org/energy/western-drought-hydropower-emissions-study/)
 
 ### **2022** 
 
@@ -60,13 +60,13 @@ Media:\[[Stanford News](https://news.stanford.edu/2023/07/17/western-droughts-dr
 \[[pdf](https://www.science.org/doi/10.1126/sciadv.abn8762)\] \[[code&data](https://zenodo.org/record/6404168#.Y4phMeyZNFM)\]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Media:\[[MIT News](https://news.mit.edu/2022/wind-health-impact-1202)\] \[[US News & World Report](https://www.usnews.com/news/health-news/articles/2022-12-02/wind-power-is-bringing-americans-real-health-benefits)\] \[[HealthDay](https://consumer.healthday.com/air-pollution-2658790383.html?mc_cid=7396a27322&mc_eid=UNIQID)\] \[[The Verge](https://www.theverge.com/2022/12/2/23488771/wind-energy-pollution-study-biden-environmental-justice)\] 
+Media: [MIT News](https://news.mit.edu/2022/wind-health-impact-1202), [US News & World Report](https://www.usnews.com/news/health-news/articles/2022-12-02/wind-power-is-bringing-americans-real-health-benefits), [HealthDay](https://consumer.healthday.com/air-pollution-2658790383.html?mc_cid=7396a27322&mc_eid=UNIQID), [The Verge](https://www.theverge.com/2022/12/2/23488771/wind-energy-pollution-study-biden-environmental-justice)
 
 *(6)* Marissa Childs, Jessica Li, Jeff Wen, Anne Driscoll, Sherrie Wang, Carlos Gould, **Minghao Qiu**, Jen Burney, Marshall Burke. Daily local-level estimates of ambient wildfire smoke PM2.5 for the contiguous US. *Environmental Science & Technology*, 2022  
 \[[pdf](https://pubs.acs.org/doi/10.1021/acs.est.2c02934)\] \[[code&data](https://www.stanfordecholab.com/wildfire_smoke)\]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Media:\[[NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html)\] \[[Guardian](https://www.theguardian.com/environment/2022/sep/22/air-quality-wildfire-smoke-pollution-health-risks)\]
+Media: [NYT](https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html), [Guardian](https://www.theguardian.com/environment/2022/sep/22/air-quality-wildfire-smoke-pollution-health-risks)
 
 *(5)* **Minghao Qiu**, Cory Zigler, Noelle Selin. Statistical and machine learning methods for evaluating emissions reduction policies under changing meteorological conditions. *Atmospheric Chemistry and Physics*, 2022 
 \[[pdf](https://acp.copernicus.org/articles/22/10551/2022/acp-22-10551-2022.html)\] \[[code&data](https://zenodo.org/record/6857259#.YwGn3eyZOdo)\]
