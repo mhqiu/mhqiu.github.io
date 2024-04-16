@@ -21,9 +21,21 @@ author_profile: true
 
 ## **<ins>Under review, submitted, in preparation</ins>**
 
-**Minghao Qiu**, Jessica Li, Jeff Wen, Marissa Childs, Marshall Burke. Impacts of climate change on wildfire smoke exposure over the continental US at the census tract level. *(in preparation)*  
 
 **Minghao Qiu**, Makoto Kelp, Marshall Burke. How to estimate PM2.5 attributable to wildfire smoke: comparison between estimates from chemical transport models and satellite-derived machine learning methods. *(in preparation)* 
+
+Guochao Chen, **Minghao Qiu**, Peng Wang, Yuqiang Zhang, Drew Shindell, Hongliang Zhang. Continuous wildfires threaten public and ecosystem health under climate change across continents. *(under review)* 
+
+Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*
+
+**Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States.  *(under review)*  
+
+Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ines Azevedo, Marshall Burke. Improved daily PM2.5 estimates in India reveal inequalitiesin recent enhancement of air quality. *(under review)*
+\[[Preprint](https://doi.org/10.31223/X5H40F)\] 
+
+**Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *(under review)*
+\[[Preprint](https://doi.org/10.31223/X5RQ5C)\] 
+\[[NBER Working Paper](https://www.nber.org/papers/w32307)\] 
 
 ## **<ins>Peer-reviewed</ins>**
 
