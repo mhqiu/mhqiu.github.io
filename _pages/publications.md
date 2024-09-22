@@ -42,10 +42,10 @@ Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ine
 ^ denotes equal contribution
 
 ### **2024** 
-*(14)* Shan Niu^, **Minghao Qiu^**, Li Li, Chenfei Qu, Da Zhang. Climate Actions, Persistent Pollutants, and Human Health: A Call for Integrated Assessments
+*(14)* Shan Niu^, **Minghao Qiu^**, Li Li, Chenfei Qu, Da Zhang. Climate Actions, Persistent Pollutants, and Human Health: A Call for Integrated Assessments.
 *Environmental Science and Technology* VIEWPOINT, 2024 \[[pdf](https://doi.org/10.1021/acs.est.4c07707)\]
 
-*(13)* Guochao Chen, **Minghao Qiu**, Peng Wang, Yuqiang Zhang, Drew Shindell, Hongliang Zhang. Continuous wildfires threaten public and ecosystem health under climate change across continents. \emph{\textbf{Front. Environ. Sci. Eng. (FESE)}, 18(10): 130} (2024) \[[pdf](https://doi.org/10.1007/s11783-024-1890-6)\]
+*(13)* Guochao Chen, **Minghao Qiu**, Peng Wang, Yuqiang Zhang, Drew Shindell, Hongliang Zhang. Continuous wildfires threaten public and ecosystem health under climate change across continents. *Front. Environ. Sci. Eng. (FESE)*, 2024 \[[pdf](https://doi.org/10.1007/s11783-024-1890-6)\]
 
 
 ### **2023** 
