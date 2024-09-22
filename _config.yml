@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minghao Qiu (邱明昊)"
+title                    : "Minghao Qiu"
 title_separator          : "-"
 name                     : &name "Minghao Qiu"
-description              : &description "Postdoctoral scholar at Stanford Univeristy"
+description              : &description "Assistant Professor, Stony Brook University"
 url                      : https://mhqiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mhqiu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Minghao Qiu"
   avatar           : "grey_back_2017.jpg"
-  bio              : "Postdoc scholar at Stanford; researches air quality, energy transition, and climate"
+  bio              : "Assistant Professor, Stony Brook University, School of Marine and Atmospheric Sciences & Program in Public Health"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vKRtjbQAAAAJ&hl=en"
-  email            :  "mhqiu@stanford.edu"
+  email            :  "minghao.qiu@stonybrook.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
