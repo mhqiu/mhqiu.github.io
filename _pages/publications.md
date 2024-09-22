@@ -34,6 +34,7 @@ Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ine
 \[[Preprint](https://doi.org/10.31223/X5H40F)\] 
 
 **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *(revise and resubmit)*
+<a href="https://doi.org/10.31223/X5RQ5C" class="button">Preprint</a>
 \[[Preprint](https://doi.org/10.31223/X5RQ5C)\] 
 \[[NBER Working Paper](https://www.nber.org/papers/w32307)\] 
 
