@@ -9,7 +9,8 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 ----------------------------------------------------------
-$${\color{blue}{\textbf{*Full-funded PhD positions at Stony Brook University, Fall 2025}}} \hline$$
+$${\color{blue}{\textbf{*Full-funded PhD positions at Stony Brook University, Fall 2025}}}$$
+&nbsp;&nbsp;
 
 Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply) at Stony Brook University (the application deadline is Dec.15). Please review the application instructions and mention your interest in working with our group in your application.Full tuition and stipend support will be provided. 
 
@@ -21,7 +22,9 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ----------------------------------------------------------
-$${\color{blue}{\textbf{Postdoctoral scholar position, flexible start date}}} \hline$$
+$${\color{blue}{\textbf{Postdoctoral scholar position, flexible start date}}}$$
+&nbsp;&nbsp;
+
 We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2025.
 
 **Interested candidates are welcome to contact Dr. Minghao Qiu via email with the subject line "Postdoc-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
