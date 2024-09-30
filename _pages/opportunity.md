@@ -22,7 +22,7 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ----------------------------------------------------------
-$${\color{blue}{\textbf{Postdoctoral scholar position, flexible start date}}}$$
+$${\color{blue}{\textbf{*Postdoctoral scholar position, flexible start date}}}$$
 &nbsp;&nbsp;
 
 We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2025.
