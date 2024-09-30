@@ -21,7 +21,7 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ----------------------------------------------------------
-$${\color{blue}‼️ **Postdoctoral scholar position, flexible start date**}$$
+$${\color{blue}{**Postdoctoral scholar position, flexible start date**}}$$
 We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2025.
 
 **Interested candidates are welcome to contact Dr. Minghao Qiu via email with the subject line "Postdoc-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
