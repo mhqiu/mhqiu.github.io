@@ -8,6 +8,7 @@ author_profile: true
 
 <!--- \* denotes equally contributing authors -->
 
+----------------------------------------------------------
 ‼️ **Full-funded PhD positions at Stony Brook University, Fall 2025**
 
 Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply) at Stony Brook University (the application deadline is Dec.15). Please review the application instructions and mention your interest in working with our group in your application.Full tuition and stipend support will be provided. 
@@ -16,8 +17,9 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 1.	CV
 2.	1-page personal statement: including your research interests, previous research experiences, a brief outline of future research ideas, and your career development plans.
 3.	Contact information for 2 recommenders (names, affiliations, and email addresses).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-
+----------------------------------------------------------
 ‼️ **Postdoctoral scholar position, flexible start date**
 
 We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2025.
@@ -28,10 +30,9 @@ We are looking for 1 postdoctoral scholar to join our group at Stony Brook Unive
 3.   PDFs of first-author papers (including preprint)
 3.   Contact information for 3 recommenders (names, affiliations, and email addresses).
 
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
+----------------------------------------------------------
 **What we are looking for:**
 
 *Postdoc*:
