@@ -8,9 +8,9 @@ author_profile: true
 
 <!--- \* denotes equally contributing authors -->
 
-```diff
-- **Full-funded PhD positions at Stony Brook University, Fall 2025**
-```
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `**Full-funded PhD positions at Stony Brook University, Fall 2025**`
+
+
 Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply) at Stony Brook University (the application deadline is Dec.15). Please review the application instructions and mention your interest in working with our group in your application.Full tuition and stipend support will be provided. 
 
 **Interested candidates are welcome to contact Dr. Minghao Qiu via email at minghao.qiu@stonybrook.edu with the subject line "PhD-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
