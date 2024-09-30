@@ -16,7 +16,7 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 **Interested candidates are welcome to contact Dr. Minghao Qiu via email at minghao.qiu@stonybrook.edu with the subject line "PhD-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
 1.	CV
 2.	1-page personal statement: including your research interests, previous research experiences, a brief outline of future research ideas, and your career development plans.
-3.	Contact information for 3 recommenders (names, affiliations, and email addresses).
+3.	Contact information for 2 recommenders (names, affiliations, and email addresses).
 
 
 **Candidate Requirements**:
@@ -26,6 +26,24 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 3.	Proficiency in programming and data analysis is preferred. Candidates should have experience in at least one programming language (e.g., R, Python, Matlab).
 4.	Candidates with prior research experience in any of the following areas will be given priority: Air quality modeling, climate and earth system modeling, and applied econometrics on environmental and energy topics
 
+
+
+**Postdoctoral scholar position, flexible start date**
+
+We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2025.
+
+**Interested candidates are welcome to contact Dr. Minghao Qiu via email with the subject line "Postdoc-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
+1.	CV (including publication list)
+2.	1-page personal statement: including your research interests, previous research experiences, a brief outline of future research ideas, and your career development plans.
+3.   PDFs of first-author papers (including preprint)
+3.   Contact information for 3 recommenders (names, affiliations, and email addresses).
+
+
+**Candidate Requirements**:
+1.	Have a PhD degree in atmospheric science, environmental science and engineering, public health, or other related disciplines by the start time.
+2.  Have published at least one peer-reviewed article (first-author or co-first-authored) in related disciplines.
+3.	Proficiency in programming and data analysis is required. Candidates should have experience in at least one programming language (e.g., R, Python, Matlab).
+4.	Candidates with prior research experience in Air quality modeling (CMAQ, GEOS-Chem, WRF-Chem), climate and earth system modeling will be given high priority. 
 
 <img src="/images/SBU_campus.png" alt="SBU Campus" align="center" class="inline" width=700 height=223/>
 
