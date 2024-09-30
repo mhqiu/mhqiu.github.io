@@ -17,6 +17,7 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 1.	CV
 2.	1-page personal statement: including your research interests, previous research experiences, a brief outline of future research ideas, and your career development plans.
 3.	Contact information for 2 recommenders (names, affiliations, and email addresses).
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ----------------------------------------------------------
