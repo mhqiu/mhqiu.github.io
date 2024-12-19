@@ -19,19 +19,15 @@ author_profile: true
 
 ## **<ins>Under review, submitted, in preparation</ins>**
 
+Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
+
+Emma Krasovich Southworth, **Minghao Qiu**, Carlos F. Gould, Ayako Kawano, Jeff Wen, Sam Heft-Neal, Kara Kilpatrick Voss, Alandra Lopez, Scott Fendorf, Jennifer Burney, Marshall Burke. Quantifying the chemical composition and health implications of wildfire smoke PM2.5 in the contiguous US. *revise & resubmit, Environmental Science and Technology*
+
 Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*
 
 Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *(revise and resubmit)* 
 
-
-Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ines Azevedo, Marshall Burke. Improved daily PM2.5 estimates in India reveal inequalities in recent enhancement of air quality. *(revise and resubmit)* 
-<a href="https://doi.org/10.31223/X5H40F" class="btn">Preprint</a> 
-
 **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *(revise and resubmit)*
-
-**Minghao Qiu**, Makoto Kelp, Sam Heft-Neal, Xiaomeng Jin, Carlos F. Gould, Daniel Tong, Marshall
-Burke. Evaluating wildfire smoke estimation methods and their implications for health effects: comparing
-chemical transport models with a machine learning approach.*(revise and resubmit)* <a href="https://doi.org/10.31223/X59M59" class="btn">Preprint</a> 
 
 **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *(revise and resubmit)* &nbsp;&nbsp; 
 <a href="https://doi.org/10.31223/X5RQ5C" class="btn">Preprint</a>
@@ -42,6 +38,13 @@ chemical transport models with a machine learning approach.*(revise and resubmit
 ^ denotes equal contribution
 
 ### **2024**  
+
+*(16)* Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ines Azevedo, Marshall Burke. Improved daily PM2.5 estimates in India reveal inequalities in recent enhancement of air quality. *(accepted, Science Advances)* 
+<a href="https://doi.org/10.31223/X5H40F" class="btn">Preprint</a> 
+
+*(15)* **Minghao Qiu**, Makoto Kelp, Sam Heft-Neal, Xiaomeng Jin, Carlos F. Gould, Daniel Tong, Marshall
+Burke. Evaluating chemical transport and machine learning models for wildfire smoke PM$_{2.5}$: Implications for assessment of health impacts. *Environmental Science and Technology*, 2024 &nbsp;&nbsp; <a href="https://doi.org/10.1021/acs.est.4c05922" class="btn">HTML</a>
+
 *(14)* Shan Niu^, **Minghao Qiu^**, Li Li, Chenfei Qu, Da Zhang. Climate Actions, Persistent Pollutants, and Human Health: A Call for Integrated Assessments.
 *Environmental Science and Technology* VIEWPOINT, 2024 &nbsp;&nbsp; <a href="https://doi.org/10.1021/acs.est.4c07707" class="btn">HTML</a>
 
