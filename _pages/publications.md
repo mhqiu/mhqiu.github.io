@@ -21,7 +21,7 @@ author_profile: true
 
 Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
 
-Emma Krasovich Southworth, **Minghao Qiu**, Carlos F. Gould, Ayako Kawano, Jeff Wen, Sam Heft-Neal, Kara Kilpatrick Voss, Alandra Lopez, Scott Fendorf, Jennifer Burney, Marshall Burke. Quantifying the chemical composition and health implications of wildfire smoke PM2.5 in the contiguous US. *revise & resubmit, Environmental Science and Technology*
+
 
 Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*
 
@@ -37,11 +37,16 @@ Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. O
 
 ^ denotes equal contribution
 
-### **2024**  
+### **2025**  
 
-*(16)* Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ines Azevedo, Marshall Burke. Improved daily PM2.5 estimates in India reveal inequalities in recent enhancement of air quality. *(accepted, Science Advances)* 
+*(17)* Emma Krasovich Southworth, **Minghao Qiu**, Carlos F. Gould, Ayako Kawano, Jeff Wen, Sam Heft-Neal, Kara Kilpatrick Voss, Alandra Lopez, Scott Fendorf, Jennifer Burney, Marshall Burke. Quantifying the chemical composition and health implications of wildfire smoke PM2.5 in the contiguous US. *Environmental Science and Technology*, 2025 
+<a href="https://pubs.acs.org/doi/full/10.1021/acs.est.4c09011" class="btn">HTML</a> 
+
+*(16)* Ayako Kawano , Makoto Kelp, **Minghao Qiu**, Kirat Singh, Eeshan Chaturvedi, Ines Azevedo, Marshall Burke. Improved daily PM2.5 estimates in India reveal inequalities in recent enhancement of air quality. *Science Advances*, 2025 
+<a href="https://www.science.org/doi/10.1126/sciadv.adq1071" class="btn">HTML</a> 
 <a href="https://doi.org/10.31223/X5H40F" class="btn">Preprint</a> 
 
+### **2024**  
 *(15)* **Minghao Qiu**, Makoto Kelp, Sam Heft-Neal, Xiaomeng Jin, Carlos F. Gould, Daniel Tong, Marshall
 Burke. Evaluating chemical transport and machine learning models for wildfire smoke PM$_{2.5}$: Implications for assessment of health impacts. *Environmental Science and Technology*, 2024 &nbsp;&nbsp; <a href="https://doi.org/10.1021/acs.est.4c05922" class="btn">HTML</a>
 
