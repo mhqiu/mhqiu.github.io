@@ -38,6 +38,8 @@ Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. O
 ^ denotes equal contribution
 
 ### **2025**  
+*(18)* **Minghao Qiu**, Deyang Chen, Makoto Kelp, Jing Li, Guanyu Huang, and Mahdieh Danesh Yazdi. The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires. *The Innovation*, 2025 
+<a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4" class="btn">HTML</a> 
 
 *(17)* Emma Krasovich Southworth, **Minghao Qiu**, Carlos F. Gould, Ayako Kawano, Jeff Wen, Sam Heft-Neal, Kara Kilpatrick Voss, Alandra Lopez, Scott Fendorf, Jennifer Burney, Marshall Burke. Quantifying the chemical composition and health implications of wildfire smoke PM2.5 in the contiguous US. *Environmental Science and Technology*, 2025 
 <a href="https://pubs.acs.org/doi/full/10.1021/acs.est.4c09011" class="btn">HTML</a> 
