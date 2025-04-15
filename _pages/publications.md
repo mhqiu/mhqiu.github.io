@@ -27,21 +27,21 @@ Yuanhong Ma, **Minghao Qiu**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xito
 
 Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
 
-{%Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*%}
-
-Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *(revise and resubmit)* 
-
 **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *(revise and resubmit)*
 
 **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *(revise and resubmit)* &nbsp;&nbsp; 
 <a href="https://doi.org/10.31223/X5RQ5C" class="btn">Preprint</a>
 <a href="https://www.nber.org/papers/w32307" class="btn">NBER Working Paper</a>
 
+<!--- Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*-->
+
 ## **<ins>Peer-reviewed</ins>**
 
 ^ denotes equal contribution 
 
 ### **2025**  
+*(19)* Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *(accepted, PNAS)* 
+
 *(18)* **Minghao Qiu**, Deyang Chen, Makoto Kelp, Jing Li, Guanyu Huang, and Mahdieh Danesh Yazdi. The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires. *The Innovation*, 2025 
 <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4" class="btn">HTML</a> 
 
