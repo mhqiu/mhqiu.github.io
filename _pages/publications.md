@@ -19,11 +19,15 @@ author_profile: true
 
 ## **<ins>Under review, submitted, in preparation</ins>**
 
+Ting-Hsuan Chang, **Minghao Qiu**, Yaguang Wei, Xiao Wu. Evaluating differential air quality impacts of prescribed fire and wildfire in the United States. *submitted*
+
+Kaifang Luo, Yun Li, Guochao Chen, **Minghao Qiu**, Froylan E Sifuentes, Hongliang Zhang, Gang He. Health and climate benefits of solar photovoltaic in European countries and the role of imports. *submitted*
+
+Yuanhong Ma, **Minghao Qiu**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xitong Li. Electric vehicle usage reduces urban air pollution: Insights from multi-year nationwide charging records in China. *submitted*
+
 Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
 
-
-
-Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*
+{%Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*%}
 
 Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *(revise and resubmit)* 
 
@@ -35,7 +39,7 @@ Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. O
 
 ## **<ins>Peer-reviewed</ins>**
 
-^ denotes equal contribution
+^ denotes equal contribution 
 
 ### **2025**  
 *(18)* **Minghao Qiu**, Deyang Chen, Makoto Kelp, Jing Li, Guanyu Huang, and Mahdieh Danesh Yazdi. The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires. *The Innovation*, 2025 
