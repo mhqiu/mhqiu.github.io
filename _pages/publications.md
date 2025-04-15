@@ -27,6 +27,10 @@ Yuanhong Ma, **Minghao Qiu**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xito
 
 Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
 
+Arpita Biswas, **Minghao Qiu**, Danielle Braun, Francesca Dominici, Daniel Mork. Quantifying Effects of Solar Power Adoption on CO2 Emissions Reduction. *submitted* 
+
+Makoto Kelp, Marshall Burke, \textbf{Minghao Qiu}, Ivan Higuera-Mendieta, Tianjia Liu, and Noah Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. \emph{(under review)} 
+
 **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *(revise and resubmit)*
 
 **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *(revise and resubmit)* &nbsp;&nbsp; 
