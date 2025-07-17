@@ -28,7 +28,7 @@ Rachel Connolly, Jenny T. Nguyen, Aron Walker, Joseph Wilkins, Yiqun Ma, Rosana 
 **Minghao Qiu**, Christopher W. Callahan, Iván Higuera-Mendieta, Lisa Rennels, Bryan Parthum, Noah S. Diffenbaugh, Marshall Burke. Valuing wildfire smoke related mortality benefits from climate mitigation. *submitted*
 <a href="https://www.nber.org/papers/w33829" class="btn">NBER Working Paper</a>
 
-<u>Yangmingkai Li<u>, Xiaomeng Jin, Makoto Kelp, Haitong Z. Sun, **Minghao Qiu**. Growing impacts of fire smoke on ozone pollution and associated mortality burden in the United States. *submitted*
+<ins> Yangmingkai Li </ins>, Xiaomeng Jin, Makoto Kelp, Haitong Z. Sun, **Minghao Qiu**. Growing impacts of fire smoke on ozone pollution and associated mortality burden in the United States. *submitted*
 
 Alexander S. Honeyman, *Minghao Qiu*, Newton Nguyen, Alireza Namayandeh, Emma Krasovich Southworth, Marshall Burke, Scott Fendorf. Invisible and Far-Reaching Threat of Metal Toxins from Wildfire Smoke. *submitted*
 
@@ -60,7 +60,7 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 
 *(19)* Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *PNAS*, 2025 <a href="https://doi.org/10.1029/2025AV001682" class="btn">HTML</a> 
 
-*(18)* **Minghao Qiu**, Deyang Chen, Makoto Kelp, Jing Li, Guanyu Huang, and Mahdieh Danesh Yazdi. The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires. *The Innovation*, 2025 
+*(18)* **Minghao Qiu**, <ins> Deyang Chen </ins>, Makoto Kelp, Jing Li, Guanyu Huang, and Mahdieh Danesh Yazdi. The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires. *The Innovation*, 2025 
 <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4" class="btn">HTML</a> 
 
 *(17)* Emma Krasovich Southworth, **Minghao Qiu**, Carlos F. Gould, Ayako Kawano, Jeff Wen, Sam Heft-Neal, Kara Kilpatrick Voss, Alandra Lopez, Scott Fendorf, Jennifer Burney, Marshall Burke. Quantifying the chemical composition and health implications of wildfire smoke PM2.5 in the contiguous US. *Environmental Science and Technology*, 2025 
