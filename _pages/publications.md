@@ -19,6 +19,19 @@ author_profile: true
 
 ## **<ins>Under review, submitted, in preparation</ins>**
 
+Min Zhang, Edgar Castro, **Minghao Qiu**, Mahdieh Danesh Yazdi, Boyuan Li, Rosalind J. Wright, Joel D. Schwartz, Robert O. Wright, Yaguang Wei. Cardiopulmonary hospitalization risks from wildfire and non-wildfire PM2.5 in 20 US states. *submitted*
+
+Jinting Guo, Ning Kang, Jianyu Deng, **Minghao Qiu**, Tao Xue. A method to estimate health effects based on error-prone simulated environmental exposure: an application to a multi-country study on birthweight and fine particulate matter. *submitted*
+
+Rachel Connolly, Jenny T. Nguyen, Aron Walker, Joseph Wilkins, Yiqun Ma, Rosana Aguilera, Chen Chen, Alexander Gershunov, Joan A. Casey, **Minghao Qiu**, Danlu Zhang, Yang Liu, Tarik Benmarhnia, Michael Jerrett, Miriam E. Marlier. A comparative analysis of wildfire smoke PM2.5 exposure estimates across California from 2008-2018. *submitted*
+    
+**Minghao Qiu**, Christopher W. Callahan, Iván Higuera-Mendieta, Lisa Rennels, Bryan Parthum, Noah S. Diffenbaugh, Marshall Burke. Valuing wildfire smoke related mortality benefits from climate mitigation. *submitted*
+<a href="https://www.nber.org/papers/w33829" class="btn">NBER Working Paper</a>
+
+<u>Yangmingkai Li<u>, Xiaomeng Jin, Makoto Kelp, Haitong Z. Sun, **Minghao Qiu**. Growing impacts of fire smoke on ozone pollution and associated mortality burden in the United States. *submitted*
+
+Alexander S. Honeyman, *Minghao Qiu*, Newton Nguyen, Alireza Namayandeh, Emma Krasovich Southworth, Marshall Burke, Scott Fendorf. Invisible and Far-Reaching Threat of Metal Toxins from Wildfire Smoke. *submitted*
+
 Ting-Hsuan Chang, **Minghao Qiu**, Yaguang Wei, Xiao Wu. Evaluating differential air quality impacts of prescribed fire and wildfire in the United States. *submitted*
 
 Kaifang Luo, Yun Li, Guochao Chen, **Minghao Qiu**, Froylan E Sifuentes, Hongliang Zhang, Gang He. Health and climate benefits of solar photovoltaic in European countries and the role of imports. *submitted*
@@ -26,10 +39,6 @@ Kaifang Luo, Yun Li, Guochao Chen, **Minghao Qiu**, Froylan E Sifuentes, Honglia
 Yuanhong Ma, **Minghao Qiu**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xitong Li. Electric vehicle usage reduces urban air pollution: Insights from multi-year nationwide charging records in China. *submitted*
 
 Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
-
-Arpita Biswas, **Minghao Qiu**, Danielle Braun, Francesca Dominici, Daniel Mork. Quantifying Effects of Solar Power Adoption on CO2 Emissions Reduction. *submitted* 
-
-Makoto Kelp, Marshall Burke, \textbf{Minghao Qiu}, Ivan Higuera-Mendieta, Tianjia Liu, and Noah Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. \emph{(under review)} 
 
 **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *(revise and resubmit)*
 
@@ -44,7 +53,12 @@ Makoto Kelp, Marshall Burke, \textbf{Minghao Qiu}, Ivan Higuera-Mendieta, Tianji
 ^ denotes equal contribution 
 
 ### **2025**  
-*(19)* Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *(accepted, PNAS)* 
+
+*(21)* Arpita Biswas, **Minghao Qiu**, Danielle Braun, Francesca Dominici, Daniel Mork. Quantifying Effects of Solar Power Adoption on CO2 Emissions Reduction. *in press, Science Advances* 
+
+*(20)* Makoto Kelp, Marshall Burke, **Minghao Qiu**, Ivan Higuera-Mendieta, Tianjia Liu, and Noah Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. *AGU Advances*, 2025 <a href="https://doi.org/10.1029/2025AV001682" class="btn">HTML</a> 
+
+*(19)* Renzhi Jing, Sam Heft-Neal, Zetianyu Wang, Jie Chen, **Minghao Qiu**, Isaac M. Opper, Zachary Wagner, Eran Bendavid. Loss of Schooling from Tropical Cyclones: Evidence from 13 Low- and Middle-income Countries. *PNAS*, 2025 <a href="https://doi.org/10.1029/2025AV001682" class="btn">HTML</a> 
 
 *(18)* **Minghao Qiu**, Deyang Chen, Makoto Kelp, Jing Li, Guanyu Huang, and Mahdieh Danesh Yazdi. The rising threats of wildland-urban interface fires in the era of climate change: The Los Angeles 2025 fires. *The Innovation*, 2025 
 <a href="https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00038-4" class="btn">HTML</a> 
