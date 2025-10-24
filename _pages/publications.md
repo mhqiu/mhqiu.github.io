@@ -48,9 +48,9 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 
 ### **2025**  
 
-*(22)* **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *One Earth*, 2025 <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3" class="btn">HTML</a> 
+*(23)* **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *One Earth*, 2025 <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3" class="btn">HTML</a> 
 
-*(23)* **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *Nature*, 2025 <a href="https://www.nature.com/articles/s41586-025-09611-w" class="btn">HTML</a> 
+*(22)* **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *Nature*, 2025 <a href="https://www.nature.com/articles/s41586-025-09611-w" class="btn">HTML</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Media: [New York Times](https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html), [Washongton Post](https://www.washingtonpost.com/climate-environment/2025/09/18/wildfire-smoke-deaths-climate-change/), [Bloomberg](https://www.bloomberg.com/news/articles/2025-09-18/wildfire-smoke-could-cause-1-4-million-annual-deaths-by-2100), [NPR](https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases),  [Guardian](https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050), [LATimes](https://www.latimes.com/environment/story/2025-09-21/wildfire-smoke-may-cause-71-000-deaths-by-2050-california-may-see-the-largest-jump), [San Francisco Chronicle](https://www.sfchronicle.com/california-wildfires/article/wildfire-smoke-deaths-study-stanford-21053446.php)
