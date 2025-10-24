@@ -9,7 +9,7 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 ----------------------------------------------------------
-$${\color{blue}{\textbf{*Full-funded PhD positions at Stony Brook University, Fall 2026}}}$$
+$${\color{blue}{\textbf{*Fully-funded PhD positions at Stony Brook University, Fall 2026}}}$$
 &nbsp;&nbsp;
 
 Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply) at Stony Brook University (the application deadline is Jan.1). Please review the application instructions and mention your interest in working with our group in your application.Full tuition and stipend support will be provided. 
