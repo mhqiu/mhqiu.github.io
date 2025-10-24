@@ -40,12 +40,6 @@ Yuanhong Ma, **Minghao Qiu**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xito
 
 Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu**, Marshall Burke. Growing wildfire-derived PM2.5 across the contiguous U.S. and implications for air quality regulation. *submitted* 
 
-**Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *(revise and resubmit)*
-
-**Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *(revise and resubmit)* &nbsp;&nbsp; 
-<a href="https://doi.org/10.31223/X5RQ5C" class="btn">Preprint</a>
-<a href="https://www.nber.org/papers/w32307" class="btn">NBER Working Paper</a>
-
 <!--- Qingyang Wu, Linshuang Yang, Xinyu Dou, **Minghao Qiu**. Carbon Capitalism in China: Does Carbon Emission Trading Widen the Divide of Carbon Emission Inequality? *(under review)*-->
 
 ## **<ins>Peer-reviewed</ins>**
@@ -54,7 +48,15 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 
 ### **2025**  
 
-*(21)* Arpita Biswas, **Minghao Qiu**, Danielle Braun, Francesca Dominici, Daniel Mork. Quantifying Effects of Solar Power Adoption on CO2 Emissions Reduction. *in press, Science Advances* 
+*(22)* **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *One Earth*, 2025 <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3" class="btn">HTML</a> 
+
+*(23)* **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *Nature*, 2025 <a href="https://www.nature.com/articles/s41586-025-09611-w" class="btn">HTML</a> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Media: [New York Times](https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html), [Washongton Post](https://www.washingtonpost.com/climate-environment/2025/09/18/wildfire-smoke-deaths-climate-change/), [Bloomberg](https://www.bloomberg.com/news/articles/2025-09-18/wildfire-smoke-could-cause-1-4-million-annual-deaths-by-2100), [NPR](https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases),  [Guardian](https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050), [LATimes](https://www.latimes.com/environment/story/2025-09-21/wildfire-smoke-may-cause-71-000-deaths-by-2050-california-may-see-the-largest-jump), [San Francisco Chronicle](https://www.sfchronicle.com/california-wildfires/article/wildfire-smoke-deaths-study-stanford-21053446.php)
+
+
+*(21)* Arpita Biswas, **Minghao Qiu**, Danielle Braun, Francesca Dominici, Daniel Mork. Quantifying Effects of Solar Power Adoption on CO2 Emissions Reduction. *Science Advances*, 2025 <a href="https://www.science.org/doi/10.1126/sciadv.adq5660" class="btn">HTML</a> 
 
 *(20)* Makoto Kelp, Marshall Burke, **Minghao Qiu**, Ivan Higuera-Mendieta, Tianjia Liu, and Noah Diffenbaugh. Efficacy of Recent Prescribed Burning and Land Management on Wildfire Burn Severity and Smoke Emissions in the Western United States. *AGU Advances*, 2025 <a href="https://doi.org/10.1029/2025AV001682" class="btn">HTML</a> 
 
