@@ -9,10 +9,10 @@ author_profile: true
 <!--- \* denotes equally contributing authors -->
 
 ----------------------------------------------------------
-$${\color{blue}{\textbf{*Full-funded PhD positions at Stony Brook University, Fall 2025}}}$$
+$${\color{blue}{\textbf{*Full-funded PhD positions at Stony Brook University, Fall 2026}}}$$
 &nbsp;&nbsp;
 
-Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply) at Stony Brook University (the application deadline is Dec.15). Please review the application instructions and mention your interest in working with our group in your application.Full tuition and stipend support will be provided. 
+Candidates should apply through the [PhD program in Marine, Atmospheric, and Sustainability Sciences](https://www.stonybrook.edu/commcms/somas/education/graduate/apply) at Stony Brook University (the application deadline is Jan.1). Please review the application instructions and mention your interest in working with our group in your application.Full tuition and stipend support will be provided. 
 
 **Interested candidates are welcome to contact via email at minghao.qiu@stonybrook.edu with the subject line "PhD-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
 1.	CV
@@ -25,12 +25,11 @@ Candidates should apply through the [PhD program in Marine, Atmospheric, and Sus
 $${\color{blue}{\textbf{*Postdoctoral scholar position, flexible start date}}}$$
 &nbsp;&nbsp;
 
-We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2025.
+We are looking for 1 postdoctoral scholar to join our group at Stony Brook University, with a flexible start date in 2026.
 
-**Interested candidates are welcome to contact Dr. Minghao Qiu via email with the subject line "Postdoc-2025-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
+**Interested candidates are welcome to contact Dr. Minghao Qiu via email with the subject line "Postdoc-2026-Name"**. Please combine the following documents into a single PDF file and attach it to the email: 
 1.	CV (including publication list)
-2.	1-page personal statement: including your research interests, previous research experiences, a brief outline of future research ideas, and your career development plans.
-3.   PDFs of first-author papers (including preprint)
+2.   PDFs of first-author papers (including preprint)
 3.   Contact information for 3 recommenders (names, affiliations, and email addresses).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
