@@ -55,8 +55,8 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Media: [New York Times](https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html), [Washongton Post](https://www.washingtonpost.com/climate-environment/2025/09/18/wildfire-smoke-deaths-climate-change/), [Bloomberg](https://www.bloomberg.com/news/articles/2025-09-18/wildfire-smoke-could-cause-1-4-million-annual-deaths-by-2100), [NPR](https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases),  [Guardian](https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050), [LATimes](https://www.latimes.com/environment/story/2025-09-21/wildfire-smoke-may-cause-71-000-deaths-by-2050-california-may-see-the-largest-jump), [San Francisco Chronicle](https://www.sfchronicle.com/california-wildfires/article/wildfire-smoke-deaths-study-stanford-21053446.php)
 
-*(22)* Shangwei Liu, Gang He, **Minghao Qiu**, and Daniel M. Kammen. Can China break the ‘cost curse’ of nuclear power? *Nature* 643, no. 8074: 1186-1188.  (2025)
-\href{https://www.nature.com/articles/d41586-025-02341-z}{[Link]}
+*(22)* Shangwei Liu, Gang He, **Minghao Qiu**, and Daniel M. Kammen. Can China break the ‘cost curse’ of nuclear power? *Nature*, 2025
+<a href="https://www.nature.com/articles/d41586-025-02341-z" class="btn">HTML</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Media: [New York Times](https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html), [The Economist](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry)
