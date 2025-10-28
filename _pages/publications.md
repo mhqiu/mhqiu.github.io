@@ -48,13 +48,18 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 
 ### **2025**  
 
-*(23)* **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *One Earth*, 2025 <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3" class="btn">HTML</a> 
+*(24)* **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *One Earth*, 2025 <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3" class="btn">HTML</a> 
 
-*(22)* **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *Nature*, 2025 <a href="https://www.nature.com/articles/s41586-025-09611-w" class="btn">HTML</a> 
+*(23)* **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *Nature*, 2025 <a href="https://www.nature.com/articles/s41586-025-09611-w" class="btn">HTML</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Media: [New York Times](https://www.nytimes.com/2025/09/18/climate/wildfire-smoke-health-deaths.html), [Washongton Post](https://www.washingtonpost.com/climate-environment/2025/09/18/wildfire-smoke-deaths-climate-change/), [Bloomberg](https://www.bloomberg.com/news/articles/2025-09-18/wildfire-smoke-could-cause-1-4-million-annual-deaths-by-2100), [NPR](https://www.npr.org/2025/09/19/nx-s1-5544451/wildfire-smoke-death-increases),  [Guardian](https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050), [LATimes](https://www.latimes.com/environment/story/2025-09-21/wildfire-smoke-may-cause-71-000-deaths-by-2050-california-may-see-the-largest-jump), [San Francisco Chronicle](https://www.sfchronicle.com/california-wildfires/article/wildfire-smoke-deaths-study-stanford-21053446.php)
 
+*(22)* Shangwei Liu, Gang He, **Minghao Qiu**, and Daniel M. Kammen. Can China break the ‘cost curse’ of nuclear power? *Nature* 643, no. 8074: 1186-1188.  (2025)
+\href{https://www.nature.com/articles/d41586-025-02341-z}{[Link]}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Media: [New York Times](https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html), [The Economist](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry)
 
 *(21)* Arpita Biswas, **Minghao Qiu**, Danielle Braun, Francesca Dominici, Daniel Mork. Quantifying Effects of Solar Power Adoption on CO2 Emissions Reduction. *Science Advances*, 2025 <a href="https://www.science.org/doi/10.1126/sciadv.adq5660" class="btn">HTML</a> 
 
