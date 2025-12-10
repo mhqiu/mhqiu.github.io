@@ -48,6 +48,13 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 
 ### **2025**  
 
+*(27)* Yuanhong Ma^, **Minghao Qiu^**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xitong Li. Electric vehicle usage reduces urban air pollution: Insights from multi-year nationwide charging records in China. *accepted, Nature Cities*
+
+*(26)* Lingzhi Chu, Pin Wang, **Minghao Qiu**, Azar M. Abadi, Kai Chen. Extreme Weather Events and Their Health Impacts: International Variation. *accepted, Annual Reviews in Public Health*
+
+*(25)* **Minghao Qiu**, Marshall Burke. Wildfire smoke and its harmful effects will worsen with climate change. *Nature* (invited research briefing). (2025)
+<a href="https://https://www.nature.com/articles/d41586-025-03404-x" class="btn">HTML</a> 
+
 *(24)* **Minghao Qiu**, Gang He, Peter Marcotullio. Health and climate benefits of power generation from imported solar photovoltaic in the United States. *One Earth*, 2025 <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3" class="btn">HTML</a> 
 
 *(23)* **Minghao Qiu**, Jessica Li, Carlos Gould, Renzhi Jing, Makoto Kelp, Marissa Childs, Jeff Wen, Yuanyu Xie, Meiyun Lin, Mathew Kiang, Sam Heft-Neal, Noah S Diffenbaugh, Marshall Burke. Wildfire smoke exposure and mortality burden in the US under future climate change. *Nature*, 2025 <a href="https://www.nature.com/articles/s41586-025-09611-w" class="btn">HTML</a> 
