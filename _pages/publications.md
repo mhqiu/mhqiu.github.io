@@ -25,8 +25,7 @@ Jinting Guo, Ning Kang, Jianyu Deng, **Minghao Qiu**, Tao Xue. A method to estim
 
 Rachel Connolly, Jenny T. Nguyen, Aron Walker, Joseph Wilkins, Yiqun Ma, Rosana Aguilera, Chen Chen, Alexander Gershunov, Joan A. Casey, **Minghao Qiu**, Danlu Zhang, Yang Liu, Tarik Benmarhnia, Michael Jerrett, Miriam E. Marlier. A comparative analysis of wildfire smoke PM2.5 exposure estimates across California from 2008-2018. *submitted*
     
-**Minghao Qiu**, Christopher W. Callahan, Iván Higuera-Mendieta, Lisa Rennels, Bryan Parthum, Noah S. Diffenbaugh, Marshall Burke. Valuing wildfire smoke related mortality benefits from climate mitigation. *submitted*
-<a href="https://www.nber.org/papers/w33829" class="btn">NBER Working Paper</a>
+
 
 <ins> Yangmingkai Li </ins>, Xiaomeng Jin, Makoto Kelp, Haitong Z. Sun, **Minghao Qiu**. Growing impacts of fire smoke on ozone pollution and associated mortality burden in the United States. *submitted*
 
@@ -47,6 +46,9 @@ Marissa Childs, Mariana Martins, Andrew J. Wilson, Sam Heft-Neal, **Minghao Qiu*
 ^ denotes equal contribution 
 
 ### **2025**  
+
+*(28)* **Minghao Qiu^**, Christopher W. Callahan^, Iván Higuera-Mendieta, Lisa Rennels, Bryan Parthum, Noah S. Diffenbaugh, Marshall Burke. Valuing wildfire smoke related mortality benefits from climate mitigation. *accepted, PNAS*
+<a href="https://www.nber.org/papers/w33829" class="btn">NBER Working Paper</a>
 
 *(27)* Yuanhong Ma^, **Minghao Qiu^**, Yuan Wang, Jiaofeng Pan, Jianfeng Guo, Fu Gu, Xitong Li. Electric vehicle usage reduces urban air pollution: Insights from multi-year nationwide charging records in China. *accepted, Nature Cities*
 
